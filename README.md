@@ -65,6 +65,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirawat04&show_icons=true&locale=en" alt="rishirawat04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishirawat04&" alt="rishirawat04" /></p>
-<script src="https://kit.fontawesome.com/a515a97b20.js" crossorigin="anonymous"></script>
+
 
 
