@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishi Rawat</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishirawat04&label=Profile%20views&color=0e75b6&style=flat" alt="rishirawat04" /> </p>
+
 
 - 🌱 I’m currently learning **Cloud computing**
 
@@ -13,10 +16,6 @@
 - ⚡ Fun fact **I am Fitness Freak**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishi rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi rawat" height="30" width="40" /></a>
-<a href="https://instagram.com/fit zone rishi 04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fit zone rishi 04" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,15 +38,25 @@
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
-<img alt="SPark AR" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />
-<img alt="" src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+
 </p>
-</p>
+<div align="center">
+<h3 align="left">Connect with me:</h3>
+ 
+<a  href="https://www.linkedin.com/in/rishi-rawat-a6632a251//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Rishi_Rawat_04" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:rawatrishi390@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+
+
+
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishirawat04&show_icons=true&locale=en&layout=compact" alt="rishirawat04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirawat04&show_icons=true&locale=en" alt="rishirawat04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishirawat04&" alt="rishirawat04" /></p>
+<script src="https://kit.fontawesome.com/a515a97b20.js" crossorigin="anonymous"></script>
 
 
