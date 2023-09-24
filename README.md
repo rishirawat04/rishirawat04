@@ -4,9 +4,9 @@ img align="right" alt="Coding" width="400" src="")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishirawat04&label=Profile%20views&color=0e75b6&style=flat" alt="rishirawat04" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Cloud computing**
 
-- 💬 Ask me about **React MERN Stack**
+- 💬 Ask me about ** MERN Stack**
 
 - 📫 How to reach me **rawatrishi390@gmail.com**
 
