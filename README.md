@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rishi Rawat</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer (MERN)</h3>
 <img src="https://images.hdqwalls.com/wallpapers/web-development-minimalism-bl.jpg"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishirawat04&label=Profile%20views&color=0e75b6&style=flat" alt="rishirawat04" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Microsoft Azure**
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me: **rawatrishi390@gmail.com**
 
-- ⚡ Fun fact: **I am a Fitness Freak**
+- ⚡ Fun fact: **"I'm not just a code ninja, but also a fitness freak! 💪 Always up for a coding challenge or a fitness challenge! 🏋️‍♂️"**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
